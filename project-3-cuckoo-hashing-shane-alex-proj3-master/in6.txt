@@ -1,0 +1,21 @@
+Algorithm Engineering
+California State University
+Fullerton
+College of Engineering and Computer Science
+School of Computer Science
+Greedy pattern
+Monge properties
+String matching
+Matrix searching
+Optimal tree construction
+Online algorithms
+emphasis on
+Server Problem
+Some related problem
+Self-Stabilization
+one of the greatest mysteries
+in science
+Quantum nature of universe
+in physics
+are known
+Cuckoo Hashing is fun!

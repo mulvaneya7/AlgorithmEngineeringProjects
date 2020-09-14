@@ -1,0 +1,17 @@
+Algorithm Engineering
+California State University
+Fullerton
+College of Engineering and Computer Science
+Greedy pattern
+Divide-and-Conquer
+Monge Properties
+String Matching
+Matrix Searching
+Optimal Tree Construction
+Online algorithm
+Offline algorithm
+emphasis on
+Server Problem
+Some related problem
+Self-Stabilization
+One of the greatest
