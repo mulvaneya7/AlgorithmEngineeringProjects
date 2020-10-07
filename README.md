@@ -19,7 +19,7 @@ solutions: **end to beginning** and the **powerset** algorithms
 
 
 
-## Project#2 Ice-Berg Avoidance Algorithm
+## Project#4 Ice-Berg Avoidance Algorithm
 
 
 
